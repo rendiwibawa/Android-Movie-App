@@ -1,10 +1,6 @@
 # Android-Movie-App
 
 
-<a href="https://www.fsf.org">
-	<img align="right" src="https://github.com/rendiwibawa/Android-Movie-App/blob/master/ezgif.com-gif-maker%20(4).gif">
-</a>
-
 Retrofit API
 
 Retrofit merupakan pustaka type-safe HTTP Client untuk Android, Java, dan Kotlin. Pustaka ini bertujuan untuk merubah bentuk REST API menjadi bentuk interface dalam Java atau Kotlin agar kita dapat lebih mudah dalam mengkonsumsi REST API (berperan sebagai REST client) lewat kode aplikasi untuk kebutuhan transaksi data.
@@ -34,4 +30,6 @@ Untuk dapat menggunakan Retrofit di project yang tengah kita kembangkan hal pert
   
  # Project View
  
-![Alt text](3ss.jpeg)
+<a href="https://www.fsf.org">
+	<img align="right" src="https://github.com/rendiwibawa/Android-Movie-App/blob/master/ezgif.com-gif-maker%20(4).gif">
+</a>
