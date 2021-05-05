@@ -31,5 +31,5 @@ Untuk dapat menggunakan Retrofit di project yang tengah kita kembangkan hal pert
  # Project View
  
 <a href="https://www.fsf.org">
-	<img align="right" src="https://github.com/rendiwibawa/Android-Movie-App/blob/master/ezgif.com-gif-maker%20(4).gif">
+	<img align="center" src="https://github.com/rendiwibawa/Android-Movie-App/blob/master/ezgif.com-gif-maker%20(4).gif">
 </a>
